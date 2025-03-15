@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Nahom, and I am a 3rd year Computer Science student at Addis Ababa University. I am interested in Web development & System design! 
+
+- 🔭 I’m currently working on my own coding YouTube channel 
+- 🌱 I’m currently learning Front-end web development on Udacity 
 <!--
 **nahom-ayu/nahom-ayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
